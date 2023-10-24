@@ -65,6 +65,7 @@ public class Main {
                  case 6:
                      System.out.println("Sunday");
                      break;
+                     
                  default:
                      System.out.println("Friday");
 
