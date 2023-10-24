@@ -64,7 +64,7 @@ public class Main {
 
                  case 6:
                      System.out.println("Sunday");
-
+                     break;
                  default:
                      System.out.println("Friday");
 
@@ -86,7 +86,7 @@ public class Main {
 
                 else if (score >=60 && score <=69){
                     System.out.println("your gread is d");}
-
+               
                     else{
                     System.out.println("your gread is F");
                 }
